@@ -1,0 +1,7 @@
+#BlueJ class context
+comment0.target=TreeIndexTest
+comment0.text=\r\n\ The\ test\ class\ TreeIndexTest.\r\n\ @author\ \ Shakh\ Saidov\r\n\ @version\ 1.0\r\n
+comment1.params=
+comment1.target=void\ testTree()
+comment1.text=\r\n\ Tests\ the\ adding\ methods\ of\ TreeIndex\r\n
+numComments=2

@@ -1,0 +1,22 @@
+#BlueJ class context
+comment0.target=Index
+comment0.text=\r\n\ Index\ is\ an\ interface\ that\ contains\ the\ methods\ all\ index-types\ should\ contain.\r\n\ @author\ Shakh\ Saidov\r\n
+comment1.params=
+comment1.target=void\ operate()
+comment1.text=\r\n\ Fills\ the\ hash/tree/list\ and\ writes\ a\ new\ file\ with\ its\ contents\ in\ order\r\n
+comment2.params=d
+comment2.target=void\ makeDict(java.io.File)
+comment2.text=\r\n\ Reads\ the\ dictionary\ file\ and\ stores\ the\ words\r\n\ @param\ d\ dictionary\ file\r\n
+comment3.params=s\ index\ bSearch
+comment3.target=void\ addExisting(java.lang.String,\ int,\ int)
+comment3.text=\r\n\ Updates\ the\ value\ of\ the\ existing\ key\r\n\ @param\ s\ key\r\n\ @param\ index\ value\r\n\ @param\ bSearch\ used\ only\ in\ listIndex\r\n
+comment4.params=s\ index\ bSearch
+comment4.target=void\ addNew(java.lang.String,\ int,\ int)
+comment4.text=\r\n\ Updates\ the\ value\ of\ the\ existing\ key\r\n\ @param\ s\ key\r\n\ @param\ index\ value\r\n\ @param\ bSearch\ used\ only\ in\ listIndex\r\n
+comment5.params=
+comment5.target=double\ getSetUpTime()
+comment5.text=\r\n\ Gets\ the\ set\ up\ time\:\ storing\ the\ words\ from\ the\ book\ and\ dictionary\ in\ the\ data\ structure\ used\r\n
+comment6.params=
+comment6.target=double\ getWritingTime()
+comment6.text=\r\n\ Gets\ the\ time\ taken\ to\ write\ a\ new\ file\ of\ index\r\n
+numComments=7

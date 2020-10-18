@@ -1,0 +1,7 @@
+#BlueJ class context
+comment0.target=HashIndexTest
+comment0.text=\r\n\ The\ test\ class\ HashIndexTest.\r\n\ @author\ Shakh\ Saidov\r\n\ @version\ 1.0\r\n
+comment1.params=
+comment1.target=void\ testHash()
+comment1.text=\r\n\ Checks\ the\ adding\ and\ sorting\ methods\ of\ HashIndex\r\n
+numComments=2

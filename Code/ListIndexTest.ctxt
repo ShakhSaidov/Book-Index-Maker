@@ -1,0 +1,7 @@
+#BlueJ class context
+comment0.target=ListIndexTest
+comment0.text=\r\n\ The\ test\ class\ ListIndexTest.\r\n\ @author\ \ Shakh\ Saidov\r\n\ @version\ 1.0\r\n
+comment1.params=
+comment1.target=void\ testList()
+comment1.text=\r\n\ Test\ the\ adding\ methods\ of\ ListIndex\r\n
+numComments=2
